@@ -1,0 +1,10 @@
+[project]
+name = "llm-fundamentals"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.2"
+dependencies = [
+    "groq>=1.0.0",
+    "ruff>=0.14.14",
+]
